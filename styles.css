@@ -1,0 +1,45 @@
+body {
+    background: rgb(120, 170, 235);
+}
+
+h1 {
+    display: block;
+    font-size: 40px;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 600px;
+    margin-inline-end: 650px;
+    color: rgb(37, 15, 234);
+}
+
+.img {
+    width: 50%;
+    height: 50%;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 320px;
+    margin-inline-end: 320x;
+}
+
+.img1 {
+    width: 50%;
+    height: 50%;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 320px;
+    margin-inline-end: 320x;
+}
+
+.info {
+    font-size: 20px;
+}
+
+.link{
+    background: rgb(218, 146, 218);
+    font-size: 20px;
+}
+
+.sort {
+    font-size: 17px;
+}
+
